@@ -2,6 +2,11 @@
 # After clone run :
      npm install
      
+# check or Add following code to angular.json
+            "scripts": [
+              "src/main.js"
+            ]
+     
  ****************************************************************************************************************************************************    
 # FrontAngular
 
